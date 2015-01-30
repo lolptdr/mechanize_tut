@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Aphex Twin",
+    "album": "Computer Controlled Acoustic Instruments pt2 EP",
+    "label": "Warp",
+    "year": "2015",
+    "reviewer": "Mark Richardson",
+    "review_date": "2015-01-27",
+    "score": 8.3
+  },
+  {
+    "artist": "Doomtree",
+    "album": "All Hands",
+    "label": "Doomtree",
+    "year": "2015",
+    "reviewer": "Nate Patrin",
+    "review_date": "2015-01-27",
+    "score": 7.1
+  },
+  {
+    "artist": "The Body / Thou",
+    "album": "You, Whom I Have Always Hated",
+    "label": "Thrill Jockey",
+    "year": "2015",
+    "reviewer": "Grayson Haver Currin",
+    "review_date": "2015-01-27",
+    "score": 7.6
+  },
+  {
+    "artist": "Howlin Rain",
+    "album": "Mansion Songs",
+    "label": "Easy Sound",
+    "year": "2015",
+    "reviewer": "Stephen M. Deusner",
+    "review_date": "2015-01-27",
+    "score": 4.7
+  }
+]
