@@ -4,7 +4,7 @@ require 'json'
 
 
 agent = Mechanize.new
-page = agent.get("http://pitchfork.com/reviews/album/")
+page = agent.get("http://pitchfork.com/reviews/albums/")
 
 review_links = page.links_with(href: %r{^/reviews/albums/\w+})
 
